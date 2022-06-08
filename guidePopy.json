@@ -1,0 +1,94 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "NetworkAds": "admob",
+
+        "BannerAdmob": "ca-app-pub-9980738804947221/5256696881",
+        "InterstitialAdmob": "ca-app-pub-9980738804947221/3672986621",
+        "NativeAdmob": "ca-app-pub-9980738804947221/5065125197",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+        "ImageBannerURL" : "https://www.google.com"
+		
+      },
+
+    "items": [
+      {
+        "title": "Catwalk Circuit Puzzle",
+        "image": "https://i.postimg.cc/X7y6w0Ts/0c09c733f87b6ba8f63127724a896ea6.jpg",
+        "color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": true,
+		"link_title": "",
+		"setLink": "https://www.google.com",
+        "image_link": "https://www.google.com",
+        "text": "Walk forward to the socket. Ignore it for now and head towards the middle of the catwalk. Turn to your right and you will see see another piece of catwalk you can pull. Pull the catwalk towards you to make a shortcut to the poles. Head back to the socket and connect to it. Walk across the shortcut and walk to your right so your are heading towards the socket we need to connect to. Use your other hand to pull the catwalk to make a new shortcut. Wrap around both poles as shown above and attach to the socket to complete the puzzle.",
+        "isNative": false,
+		"background": ""
+      },
+
+
+
+
+      {
+        "title": "Huggy Wuggy Chase",
+        "image": "https://i.postimg.cc/G28nqw43/Whats-App-Image-2022-06-08-at-01-04-24.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "With the power back on make your way back downstairs. Now the machinery below is running. Push the Make A Friend console button in the middle of the room. When you press this button the room’s machinery comes to life. Look to the left of the console and pull the three levers you see on the pieces machines. Wait for the pieces to move through the building process then pick up the completed toy at the end. Take the toy and place it on the scale next to the door with the “Nobody leaves without making a toy” sign. This door will open.\n \nHead through the open door and prepare yourself. From this point on Huggy Wuggy will start to chase you. Walk forward towards the darkened hallway. The creature will appear from out of the darkness as you get closer to it. Immediately turn and run to the end of the conveyor belt where you got your Make A Friend. The door there is open. Go through the vents while Huggy Wuggy chases you.\n \n At the end of the chase you will end \n \n up on a catwalk with nowhere to go. Above the catwalk is a yellow crate. Use both hands to pull it down. Huggy Wuggy will appear and the crate will drop onto it knocking it down below. ",
+        "isNative": false,
+		"background": ""
+      },
+
+
+
+
+      {
+        "title": "Catwalk and Chapter Ending",
+        "image": "https://i.postimg.cc/7YyrMRwD/Whats-App-Image-2022-06-08-at-01-05-07.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Along the main path on the catwalk you will find the Gray Tape. It is sitting in the final T you need to take to reach the Flower door. If you wish to collect it pick it up and take a right. Take it and place it in the Gray VCR at the end of the catwalk.\n \n The rest of the chapter is linear in fashion. Go through the Flower door and follow the hallways until you reach the very end. In the final room you will see a doll in a glass case. Use your hands to open the case. Once the doll is freed Chapter 1: A Tight Squeeze comes to an end.",
+        "isNative": false,
+		"background": ""
+      },
+
+
+
+
+      {
+        "title": "Door Solution ",
+        "image": "https://i.postimg.cc/j20mcWVv/Whats-App-Image-2022-06-08-at-01-05-49.jpg",
+		"color": "#FFFFFF",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "In Poppy Playtime Chapter 1 A Tight Squeeze players explore an old toy factory while being chased by Huggy Wuggy. This first chapter is relatively light on action but full of puzzles. The first puzzle you encounter involves completing a specific color input to open the door leading to the Security room. To help you solve this puzzle see our Poppy Playtime Security door solution guide below.\n \n Learn the Combination from the Train if the Gift ShopImage showing the toy train in PoppyImage showing the toy train in Poppy Playtime.Before you can open the Security room door you need to learn the color combination to input. To do this you need to visit the Gift Shop. In the Gift Shop on the roof is a train on a suspended track. Observe the train and note the colors of the different pieces. You will get four colors \n \n Input the Colors on the Security Door Pad Image showing the Security door solution for Poppy Playtime.\n \n Once you’ve noted the four colors \n Once you’ve noted the four colors head back to the Security room door. Interact with the pad and input the colors you have for the door lock. The order doesn’t matter and if you mess up you can always try again. The colors are:Green.\n Pink. \n Yellow. \n Red.\n When you input the four colors listed above you will open the door. Getting into the Security Office is required to complete the chapter as you need to \n\n Blue hand that resides inside. There is also a VHS you can collect inside the room as well. ",
+        "isNative": false,
+		"background": ""
+      }
+
+
+
+
+
+
+
+
+
+    ]
+
+  }
+}
